@@ -93,7 +93,7 @@ DATABASES = {
         'NAME': 'forum',
         'USER': 'name',
         'PASSWORD': '',
-        'HOST': 'localhost',
+        'HOST': '.herokuapp.com',
         'PORT': '',
     }
 }
