@@ -6,3 +6,7 @@ olefile==0.44
 Pillow==4.3.0
 python-decouple==3.1
 pytz==2017.3
+requests==2.18.4
+urllib3==1.22
+whitenoise==3.3.1
+psycopg2==2.6.2
